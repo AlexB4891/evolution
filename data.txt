@@ -2,5 +2,5 @@
   name: 01_habitos
   type: table
   description: ~
-  rows: 0
+  rows: 1
   cols: 3
