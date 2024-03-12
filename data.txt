@@ -1,0 +1,6 @@
+- path: 01_habitos
+  name: 01_habitos
+  type: table
+  description: ~
+  rows: 0
+  cols: 3
