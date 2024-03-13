@@ -7,7 +7,7 @@ cols: 3
 columns:
   logro: numeric
   habito: character
-  check: character
+  check: logical
 filenames:
   data.csv: data.csv
   data.rds: data.rds
